@@ -1,0 +1,21 @@
+# Ignore datasets
+classification_dataset/
+data/
+datasets/
+
+# Ignore MLflow stuff
+mlruns/
+mlflow/
+runs/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Jupyter junk
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
