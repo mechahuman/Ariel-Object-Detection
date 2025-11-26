@@ -37,6 +37,7 @@ st.title("Ariel Object Detection")
 st.write(
     """
     This application uses Transfer Learning to classify images as either 'Bird' or 'Drone'.
+    
     The model is built on top of EfficientNetB0 architecture and has been fine-tuned for this specific task.
     """
 )
